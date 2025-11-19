@@ -1,3 +1,0 @@
-interface EnemyProtoType {
-    EnemyProtoType clone();
-}
